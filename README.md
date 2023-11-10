@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Macklou
+- 👋 Hi, I’m @CharlotteLouise
 - 👀 I’m interested in front end, learning new code, AI and Machine Learning. 
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on anything really. New to GitHub so up for collaborating.
