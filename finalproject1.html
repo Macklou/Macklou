@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mental Health Support</title>
+    <style>
+      body {
+        background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        text-align: center;
+        font-family: verdana, sans-serif;
+        color: #5e5b5b;
+      }
+      h2 {
+        text-align: center;
+        border: 1px solid #7d51e8;
+        font-family: verdana, sans-serif;
+        padding: 5px;
+        font-size: 18px;
+        border-radius: 4px;
+      }
+      img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        border-radius: 10px;
+      }
+      p {
+        line-height: 1.5;
+        font-size: 13px;
+        font-family: verdana, sans-serif;
+        margin: 20px 0 10px;
+        text-align: center;
+      }
+      button {
+        display: block;
+        margin: 20px auto;
+        background: #9aa8ff;
+        color: white;
+        font-size: 18px;
+        padding: 15px 20px;
+        border: none;
+        border-radius: 6px;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+        transition: all 200ms ease-in-out;
+      }
+      a {
+        text-align: center;
+        color: inherit;
+      }
+
+      button:hover {
+        opacity: 0.9;
+        cursor: pointer;
+      }
+
+      .container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 15px 60px;
+      }
+
+      .button {
+        color: #7d51e8;
+        text-decoration: none;
+        font-size: 12px;
+      }
+
+      .button:hover {
+        text-decoration: underline;
+      }
+
+      .footer {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="head">
+      <h1>Mental Health Support</h1>
+      <h2>The Importance of Getting Help</h2>
+      <img
+        src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/103/597/original/Journey_Image.png?1699639102"
+        alt="Graphic of a mind and thoughts "
+        width="500px"
+      />
+
+      <p>
+        Seeking help is often the first step towards getting and staying well,
+        but it can be hard to know how to start or where to turn to. It's common
+        to feel unsure, and to wonder whether you should try to handle things on
+        your own. But it's always ok to ask for help even if you're not sure you
+        are experiencing a specific mental health problem
+      </p>
+      <a
+        href="https://www.mind.org.uk"
+        target="_blank"
+        style="text-align: center"
+      >
+        Get Help Here👈
+      </a>
+      <button>👉 Learn More</button>
+      <p class="footer">This page was built by Louise Mackin</p>
+    </div>
+    <script>
+      function changeLearn() {
+        let name = prompt("What is your name?");
+        let email = prompt("What is your email address?");
+        let heading = document.querySelector("h1");
+        if (name && email) {
+          alert("Thank you. We will be in touch. Take care");
+        } else {
+          alert("Please provide both your name and email.");
+        }
+      }
+
+      let changeButton = document.querySelector("button");
+      changeButton.addEventListener("click", changeLearn);
+    </script>
+  </body>
+</html>
