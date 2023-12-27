@@ -9,8 +9,11 @@
 I'm a front end developer and software engineer, I also work on UX / UI. I build projects here that help develop my skills as well as use for examples by others looking to develop their skills. I have worked in both the tech and HR environments for some of the largest companies in the industry leading projects such as wesbite integration, cloud cost review and UX testing. 
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/charlottemackin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
+
 
 
 
@@ -46,4 +49,4 @@ The application and infrastructure repositories for this project are currently p
 
 
 ## 📊 GitHub Stats
-![Adama's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamal5&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MackLou&show_icons=true&theme=gruvbox)
