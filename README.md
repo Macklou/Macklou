@@ -4,7 +4,7 @@
 
 # Louise Charlotte 👋
 
-**`Front End Developer, Software Engineer and life long leaner`**
+**`Front End Developer, Software Engineer and life long learner`**
 
 I'm a front end developer and software engineer, I also work on UX / UI. I build projects here that help develop my skills, and I also share examples for others looking to develop their own. I have worked in both the tech and HR environments for some of the largest companies in the industry leading projects such as wesbite integration, cloud cost review and UX testing. 
 
