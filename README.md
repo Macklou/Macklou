@@ -31,8 +31,8 @@ Here are some of the tools and languages I have experience with and use in proje
 
 ## 👩🏾‍💻 Currently Working On..
 
-### The AI Driven Travel Assistant
-I am currently working on an travel planner AI application. The application is integrated with OpenAI API to aid in generating ideas and plans for trips for solo travellers. 
+### The AI Women Safety App 
+I am currently working on a safety app for women. It is for women who are experiencing stalking harassment whether outside work or within. It will enable them to keep a record of instances that have made them feel uncomfortable like a diary, they can also add photos of anything. there will be a resources sections with information on how they can reach support. There will also be a personal safety section. However the main purpose of the app will be to record with time, date, location, instance etc of any harassment or stalking so that the user has a record they can then download to a PDF to take to any authorities.
 
 The application in version 1 is being deployed in AWS in an event driven architecture leveraging the following AWS Services:
 - Lambda
